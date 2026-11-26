@@ -1,2 +1,2 @@
 # Medical-Stock-and-Queue
-This repository aims to works together with group!
+The goal of this repository is to collaborate with the group!
